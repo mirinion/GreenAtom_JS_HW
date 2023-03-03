@@ -7,3 +7,4 @@
 ### Описание выполнения:
  <p>Создал сервер, закоммитил в main. Добавил ветку newBranch. Запушил в нее новый файл style.css + дополнил index.html</p>
  <p>Сделал push request и merge веток в main</p>
+<p>Сделал issue https://github.com/nkataeva/JS-Fullstack/issues/3#issue-1609246302</p>
